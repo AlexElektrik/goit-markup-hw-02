@@ -27,6 +27,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   text-decoration: none;
+  word-spacing: 0;
 }
 
 .logo-web {
@@ -94,6 +95,7 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
   background-color: var(--color-accent);
+  cursor: pointer;
 }
 
 /* -------MAIN--------- */
@@ -183,6 +185,7 @@ body {
 .menu-button:focus {
   background-color: var(--color-accent);
   color: #ffffff;
+  cursor: pointer;
 }
 
 .example-title {
